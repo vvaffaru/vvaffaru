@@ -1,7 +1,6 @@
 ### Yo 👋
 
-<!--
-**vvaffaru/vvaffaru** is ✨ _special_ ✨ 
+**vvaffaru** is ✨ _special_ ✨ 
 
 Some information I was forced to include:
 
@@ -13,4 +12,3 @@ Some information I was forced to include:
 - 📫 How to reach me: ... Even I don't know most the time
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... The only thing you can prove is that you are
--->
